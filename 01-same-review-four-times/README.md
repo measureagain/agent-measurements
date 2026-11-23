@@ -62,4 +62,4 @@ By the strict count, 6 of Codex's 8 findings hold, and 4 of Sonnet's 12.
 
 It is one pull request, one project and one prompt. No person verified the findings, only models. And the two reviewers did not work under the same conditions: Sonnet said in three of its four reports that it could not run code, and Codex did run code.
 
-So take it as one measurement, not as a ranking. If you think I did it wrong, tell me how. I have the prompt, the eight reports and the two checks, and I'm happy to share them.
+So take it as one measurement, not as a ranking. If you think I did it wrong, tell me how. The prompt, the eight reports and the two checks are in this folder.
